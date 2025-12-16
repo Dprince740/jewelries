@@ -7,8 +7,8 @@ const products=[{
     name:'Golden Anklets',
     price:'$5.00'
 },{
-    image:'./assets/beaded-bracelet.png',
-    name:'Beaded Bracelet',
+    image:'./assets/silver-earring.png',
+    name:'Silver Earring',
     price:'$8.00'
 },{
     image:'./assets/diamond-watch.png',
